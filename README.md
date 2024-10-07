@@ -1,1 +1,220 @@
-# DavidAAP.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>David's Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>David Avila Portfolio</h1>
+    <nav>
+      <a href="#creative">Creative Section</a>
+      <a href="#undocumented-student-resource-fair-booklet">Undocumented Student Resource Fair Booklet Section</a>
+	  <a href="#resume">Resume</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      David is an aspiring Data Science major driven by a deep passion for community, activism, 
+	  and the arts, as well as a wide array of interests including health, poetry, engineering, 
+	  psychology, neuroscience, philosophy, and artificial intelligence. He is a dedicated student, 
+	  enthusiastic about exploring media, digital design, science, music production, language, and much more.
+    </p>
+  </section>
+  
+  <section id="resume">
+	<h2>Resume</h2>
+		<p>You can view or download my resume by clicking the link below:</p>
+	<a href="files/David_Avila_Resume_2024(3).pdf" target="_blank" class="resume-link">Download Resume (PDF)</a>
+  </section>
+
+  <!-- Gallery Section -->
+  <section class="gallery">
+
+    <h2 id="creative">Creative</h2>
+
+    <!-- Image 1: David Nebo -->
+    <div class="gallery-item">
+      <a href="images/DavidNebo.png" target="_blank">
+        <img src="images/DavidNebo.png" alt="David Nebo" class="gallery-img">
+      </a>
+      <p>David Nebo Artwork</p>
+    </div>
+
+    <!-- Image 2: DAvila Abstract -->
+    <div class="gallery-item">
+      <a href="images/DAvila_Abstract.jpg" target="_blank">
+        <img src="images/DAvila_Abstract.jpg" alt="DAvila Abstract" class="gallery-img">
+      </a>
+      <p>Abstract Art by David Avila</p>
+    </div>
+
+    <!-- Image 3: Graffiti DAvila -->
+    <div class="gallery-item">
+      <a href="images/Graffitty_DAvila01.jpg" target="_blank">
+        <img src="images/Graffitty_DAvila01.jpg" alt="Graffiti DAvila" class="gallery-img">
+      </a>
+      <p>Graffiti Art</p>
+    </div>
+
+    <!-- Image 4: DAvila Text Mask -->
+    <div class="gallery-item">
+      <a href="images/DAvila_TextMask.jpg" target="_blank">
+        <img src="images/DAvila_TextMask.jpg" alt="DAvila Text Mask" class="gallery-img">
+      </a>
+      <p>Text Mask Art</p>
+    </div>
+
+    <!-- Image 5: Bubble Art -->
+    <div class="gallery-item">
+      <a href="images/DAvila_bubble.jpg" target="_blank">
+        <img src="images/DAvila_bubble.jpg" alt="Bubble Art" class="gallery-img">
+      </a>
+      <p>Bubble Art</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/Id1.jpg" target="_blank">
+        <img src="images/Id1.jpg" alt="Identity Zoom Tips" class="gallery-img">
+      </a>
+      <p>Zoom Safety Tips</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/Id2.jpg" target="_blank">
+        <img src="images/Id2.jpg" alt="Identity Zoom Continuation Tips" class="gallery-img">
+      </a>
+      <p>Zoom Safety Tips Continuation</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/Phoenix_Sticker2.0.png" target="_blank">
+        <img src="images/Phoenix_Sticker2.0.png" alt="Phoenix Logo" class="gallery-img">
+      </a>
+      <p>Final Logo (Brand)</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/UndocuResource.png" target="_blank">
+        <img src="images/UndocuResource.png" alt="UndocuResource Event" class="gallery-img">
+      </a>
+      <p>Event Flyer</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/UndocuStudent Resource Fair - Times.png" target="_blank">
+        <img src="images/UndocuStudent Resource Fair - Times.png" alt="UndocuStudent Resource Fair Schedule" class="gallery-img">
+      </a>
+      <p>Session Times For Event</p>
+    </div>
+
+    <div class="gallery-item">
+      <a href="images/Untitled_Artwor1.0k.png" target="_blank">
+        <img src="images/Untitled_Artwor1.0k.png" alt="Artwork" class="gallery-img">
+      </a>
+      <p>Initial Logo</p>
+    </div>
+
+    <h2 id="undocumented-student-resource-fair-booklet">Undocumented Student Resource Fair Booklet</h2>
+
+    <!-- Image 1 -->
+    <div class="gallery-item">
+      <a href="images/Pan1.png" target="_blank">
+        <img src="images/Pan1.png" alt="Undocustudent Resource Fair">
+      </a>
+      <p>Undocustudent Resource Fair Poster</p>
+    </div>
+
+    <!-- Image 2 -->
+    <div class="gallery-item">
+      <a href="images/Pan2.png" target="_blank">
+        <img src="images/Pan2.png" alt="Undocustudent Resource Fair Sessions">
+      </a>
+      <p>Undocustudent Resource Fair Sessions</p>
+    </div>
+
+    <!-- Image 3 -->
+    <div class="gallery-item">
+      <a href="images/Pan3.png" target="_blank">
+        <img src="images/Pan3.png" alt="Brittany Zorn - Gradschool">
+      </a>
+      <p>Brittany Zorn - Preparing for Gradschool</p>
+    </div>
+
+    <!-- Image 4 -->
+    <div class="gallery-item">
+      <a href="images/Pan4.png" target="_blank">
+        <img src="images/Pan4.png" alt="Karina Ruiz - ITINs">
+      </a>
+      <p>Karina Ruiz - All About ITINs</p>
+    </div>
+
+    <!-- Image 5 -->
+    <div class="gallery-item">
+      <a href="images/Pan5.png" target="_blank">
+        <img src="images/Pan5.png" alt="Carlo Barrera - Advance Parole Panel">
+      </a>
+      <p>Carlo Barrera - Advance Parole Experience Panel</p>
+    </div>
+
+    <!-- Image 6 -->
+    <div class="gallery-item">
+      <a href="images/Pan6.png" target="_blank">
+        <img src="images/Pan6.png" alt="Melanny Buitron - Advance Parole">
+      </a>
+      <p>Melanny Buitron - Advance Parole Experience Panel</p>
+    </div>
+
+    <!-- Image 7 -->
+    <div class="gallery-item">
+      <a href="images/Pan7.png" target="_blank">
+        <img src="images/Pan7.png" alt="Laura Mendoza - Advance Parole">
+      </a>
+      <p>Laura Mendoza - Advance Parole Experience Panel</p>
+    </div>
+
+    <!-- Image 8 -->
+    <div class="gallery-item">
+      <a href="images/Pan8.png" target="_blank">
+        <img src="images/Pan8.png" alt="Edy Ramirez - Entrepreneurship">
+      </a>
+      <p>Edy Ramirez - Entrepreneurship Panel</p>
+    </div>
+
+    <!-- Image 9 -->
+    <div class="gallery-item">
+      <a href="images/Pan9.png" target="_blank">
+        <img src="images/Pan9.png" alt="Daniela Limon - Entrepreneurship">
+      </a>
+      <p>Daniela Limon - Entrepreneurship Panel</p>
+    </div>
+
+    <!-- Image 10 -->
+    <div class="gallery-item">
+      <a href="images/Pan10.png" target="_blank">
+        <img src="images/Pan10.png" alt="Johann Hayag - Entrepreneurship">
+      </a>
+      <p>Johann Hayag - Entrepreneurship Panel</p>
+    </div>
+
+    <!-- Image 11 -->
+    <div class="gallery-item">
+      <a href="images/Pan11.png" target="_blank">
+        <img src="images/Pan11.png" alt="Sponsors/Partnerships">
+      </a>
+      <p>Sponsors/Partnerships</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact: <a href="mailto:davila4@my.dom.edu" class="email-link">davila4@my.dom.edu</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/david-avila-dream/" class="linkedin-link">David Avila's LinkedIn</a></p>
+  </footer>
+
+</body>
+</html>
